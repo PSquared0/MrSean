@@ -12,25 +12,25 @@ const lorem =
 const data = [
   {
     id: Math.random(),
-    title: "Box titulo 1",
+    title: "Music",
     text: lorem,
     bgColor: "#D5CAFA"
   },
   {
     id: Math.random(),
-    title: "Box titulo 2",
+    title: "Fun",
     text: lorem,
     bgColor: "#EDA9A9"
   },
   {
     id: Math.random(),
-    title: "Box titulo 3",
+    title: "Parties",
     text: lorem,
     bgColor: "#F2EE8D"
   },
   {
     id: Math.random(),
-    title: "Box titulo 4",
+    title: "School",
     text: lorem,
     bgColor: "#9FEACD"
   }
