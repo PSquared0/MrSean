@@ -7,7 +7,6 @@ export const Container = styled.div`
   justify-content: center;
   margin: ${px2vw(32)};
   max-width: 100%;
-
   @media (min-width: 1024px) {
     flex-wrap: nowrap;
   }
@@ -22,6 +21,8 @@ export const Box = styled.div`
   margin: ${px2vw(20)};
   background-color: ${props => props.bgColor};
   height: 100%;
+  
+  
 
   @media (min-width: 768px) {
     width: ${px2vw(320, 768)};
